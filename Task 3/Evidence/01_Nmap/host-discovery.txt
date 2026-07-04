@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Sat Jul  4 09:08:05 2026 as: /usr/lib/nmap/nmap -sn -oN /home/peter/lab/scans/host-discovery.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up.
+# Nmap done at Sat Jul  4 09:08:05 2026 -- 1 IP address (1 host up) scanned in 0.01 seconds
