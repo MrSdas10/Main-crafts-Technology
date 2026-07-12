@@ -1,0 +1,36 @@
+# Dirsearch started Sun Jul 12 14:45:19 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://127.0.0.1:8888 -o /home/peter/lab/task4/dirsearch/dirsearch-task4.txt
+
+200    57B   http://127.0.0.1:8888/.gitignore
+403   297B   http://127.0.0.1:8888/.ht_wsr.txt
+403   300B   http://127.0.0.1:8888/.htaccess.bak1
+403   300B   http://127.0.0.1:8888/.htaccess.orig
+403   302B   http://127.0.0.1:8888/.htaccess.sample
+403   300B   http://127.0.0.1:8888/.htaccess.save
+403   301B   http://127.0.0.1:8888/.htaccess_extra
+403   300B   http://127.0.0.1:8888/.htaccess_orig
+403   298B   http://127.0.0.1:8888/.htaccessBAK
+403   298B   http://127.0.0.1:8888/.htaccessOLD
+403   299B   http://127.0.0.1:8888/.htaccessOLD2
+403   298B   http://127.0.0.1:8888/.htaccess_sc
+403   290B   http://127.0.0.1:8888/.htm
+403   291B   http://127.0.0.1:8888/.html
+403   300B   http://127.0.0.1:8888/.htpasswd_test
+403   296B   http://127.0.0.1:8888/.htpasswds
+403   297B   http://127.0.0.1:8888/.httr-oauth
+403   290B   http://127.0.0.1:8888/.php
+403   291B   http://127.0.0.1:8888/.php3
+200     2KB  http://127.0.0.1:8888/about.php
+200     7KB  http://127.0.0.1:8888/CHANGELOG.md
+301   314B   http://127.0.0.1:8888/config    -> REDIRECTS TO: http://127.0.0.1:8888/config/
+200   493B   http://127.0.0.1:8888/config/
+301   312B   http://127.0.0.1:8888/docs    -> REDIRECTS TO: http://127.0.0.1:8888/docs/
+200   486B   http://127.0.0.1:8888/docs/
+200   471B   http://127.0.0.1:8888/dvwa/
+200     1KB  http://127.0.0.1:8888/favicon.ico
+200   699B   http://127.0.0.1:8888/login.php
+200   148B   http://127.0.0.1:8888/php.ini
+200     9KB  http://127.0.0.1:8888/README.md
+200    26B   http://127.0.0.1:8888/robots.txt
+403   299B   http://127.0.0.1:8888/server-status
+403   300B   http://127.0.0.1:8888/server-status/
+200     2KB  http://127.0.0.1:8888/setup.php
